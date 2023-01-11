@@ -1,6 +1,8 @@
 
   
 
+> This repository provides a basic introduction to the atris app platform. It is not intended to show the source of the project. The project is not open sourced
+
 ![Hero image](https://atris-frontend-jainal09.vercel.app/lpage/images/LOGO.png)
 
   
