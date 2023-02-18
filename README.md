@@ -3,11 +3,11 @@
 
 > This repository provides a basic introduction to the atris app platform. It is not intended to show the source of the project. The project is not open sourced
 
-![Hero image](https://atris-frontend-jainal09.vercel.app/lpage/images/LOGO.png)
+![Hero image](https://atris-frontend-git-master-jainal09.vercel.app/lpage/images/LOGO.png)
 
   
 
-![Hero image](https://atris-frontend-jainal09.vercel.app/lpage/assets/laptop.svg)
+![Hero image](https://atris-frontend-git-master-jainal09.vercel.app/lpage/images/laptop.svg)
 
   
 
@@ -63,7 +63,7 @@ With ATRIS you can get super focussed audio recording functionality for your mee
 
   
 
-![Features split image 01](https://atris-frontend-jainal09.vercel.app/lpage/assets/recording.svg)
+![Features split image 01](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/recording.svg)
 
   
 
@@ -75,7 +75,7 @@ Customize the transcribe of your audio from our intiutive UI by collabrating wit
 
   
 
-![Features split image 02](https://atris-frontend-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png)
+![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/note_taking_made_easy.png)
 
   
 
@@ -87,7 +87,7 @@ Get the presence of each and every member in your meeting and the sentences they
 
   
 
-![Features split image 03](https://atris-frontend-jainal09.vercel.app/lpage/assets/diarilization.svg)
+![Features split image 03](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/diarilization.svg)
 
   
 
@@ -99,7 +99,7 @@ We assist you in annotating you keyword entities to you that is most important t
 
   
 
-![Features split image 02](https://atris-frontend-jainal09.vercel.app/lpage/assets/annote.png)
+![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/annote.png)
 
   
 
@@ -111,7 +111,7 @@ We process your entire conversation to give you visualization of how did the ent
 
   
 
-![Features split image 03](https://atris-frontend-jainal09.vercel.app/lpage/assets/16.png)
+![Features split image 03](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/16.png)
 
   
 
@@ -123,7 +123,7 @@ We know how important is your each and every conversation is, so we taimport use
 
   
 
-![Features split image 02](https://atris-frontend-jainal09.vercel.app/lpage/assets/search.png)
+![Features split image 02](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/search.png)
 
   
 
