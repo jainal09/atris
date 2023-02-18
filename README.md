@@ -7,7 +7,7 @@
 
   
 
-![Hero image](https://atris-frontend-git-master-jainal09.vercel.app/lpage/images/laptop.svg)
+![Hero image](https://atris-frontend-git-master-jainal09.vercel.app/lpage/assets/laptop.svg)
 
   
 
