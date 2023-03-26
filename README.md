@@ -197,4 +197,7 @@ upto 20GB Storage
 
 - Custom Vocabulary Training
 
-  
+## Awards
+- [SSIP Seed grant Award](http://www.ssipgujarat.in/a_about_ssip): Government of Gujarat, India awarded ₹165K to transform & boost our startup, Atris (02/10/2020)
+
+- [Best Startup from the city Award](https://www.linkedin.com/posts/jainal09_startup-development-machinelearning-activity-6656534647297662976-AvY0?utm_source=share&utm_medium=member_desktop): Awarded for Atris at GTU Startup Day for showcasing the prototype of Atris (03/07/2020)
